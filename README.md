@@ -23,7 +23,7 @@ Aşağıdakilerin yüklü olduğundan emin olun:
 1. Depoyu klonlayın:
 
    ```bash
-   git clone https://github.com/yeterzaif16/wordList1.git
+   git clone https://github.com/yeterzaif16/wordList.git
 
 2. Gerekli kütüphaneleri yükleyin:
 
